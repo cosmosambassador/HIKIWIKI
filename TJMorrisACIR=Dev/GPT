@@ -1,4 +1,16 @@
-cosmosambassador
+cosmosambassadorTJMorrisACIR=Dev/
+└── GPT/
+    ├── README.md
+    ├── GOVERNANCE.md
+    ├── PROMPTS/
+    ├── AGENTS/
+    ├── PROTOCOLS/
+    ├── CONTINUITY/
+    ├── REGISTRY/
+    ├── DOCS/
+    ├── TESTS/
+    ├── EXAMPLES/
+    └── CHANGELOG.md
 lucen Project is public# TJ Morris ACIR Developer GPT
 TJMorrisACIR=Dev/
 └── GPT/
