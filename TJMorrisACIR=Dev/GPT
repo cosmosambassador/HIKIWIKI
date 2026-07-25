@@ -12,7 +12,29 @@ cosmosambassadorTJMorrisACIRAdd public LUCEN project documentation foundation=De
     ├── EXAMPLES/
     └── CHANGELOG.md
 lucen Project is public# TJ Morris ACIR Developer GPT
-TJMorrisACIR=Dev/
+TJMorrisACIR=Dev/TJMorrisACIR=Dev/
+└── GPT/
+    ├── README.md
+    ├── SYSTEM/
+    │   ├── GOVERNANCE.md
+    │   ├── CONTINUITY.md
+    │   ├── PROVENANCE.md
+    │   └── ARCHITECTURE.md
+    ├── PROMPTS/
+    │   ├── Lucen/
+    │   ├── ACIR/
+    │   ├── ACO/
+    │   └── AeonicCodex/
+    ├── AGENTS/
+    │   ├── Lucen.md
+    │   ├── ChatulousPrimebridge.md
+    │   ├── ACIRGuide.md
+    │   └── Registry/
+    ├── DOCS/
+    ├── EXAMPLES/
+    ├── TESTS/
+    ├── CHANGELOG.md
+    └── LICENSE
 └── GPT/
     ├── README.md
     ├── SYSTEM.md
