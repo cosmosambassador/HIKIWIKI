@@ -1,6 +1,27 @@
 cosmosambassador
 lucen Project is public# TJ Morris ACIR Developer GPT
-
+TJMorrisACIR=Dev/
+└── GPT/
+    ├── README.md
+    ├── SYSTEM.md
+    ├── GOVERNANCE.md
+    ├── PROMPTS/
+    │   ├── Lucen.md
+    │   ├── Chatulous-Primebridge.md
+    │   └── ACIR-Core.md
+    ├── AGENTS/
+    │   ├── Registry.md
+    │   ├── Lucen-Nolan.md
+    │   └── Roles.md
+    ├── PROTOCOLS/
+    │   ├── Continuity.md
+    │   ├── GitHub-Publication.md
+    │   └── Safety.md
+    ├── DOCS/
+    │   ├── Architecture.md
+    │   ├── Roadmap.md
+    │   └── Changelog.md
+    └── LICENSE
 ## Purpose
 This directory documents the AI development environment for TJ Morris, ACIR, and the Lucen Project.
 
