@@ -154,6 +154,115 @@ ACO, AISI, ACE, ACIR, Aletheon, clubs, associations, publishing networks, resear
 
 Foundings, renamings, migrations, launches, broadcasts, publications, discoveries, disputes, corrections, closures, and succession records.
 
+## Deeper Wisdom STEM Program
+
+**STEM means Science, Technology, Engineering, and Mathematics.**
+
+The Deeper Wisdom STEM Program uses heritage as a real-world learning environment. Participants investigate a community question, preserve its human context, work with observable evidence, and produce something that can be checked and used.
+
+This is a community education framework. It does not claim school accreditation, UNESCO sponsorship, or automatic scientific validation of every heritage account.
+
+### STEM purpose
+
+- Teach careful observation without dismissing lived experience.
+- Turn archives and community questions into responsible research projects.
+- Build technical and quantitative skills through meaningful local material.
+- Help learners distinguish data, testimony, hypothesis, interpretation, and conclusion.
+- Design useful preservation tools while protecting consent, privacy, and cultural rights.
+
+### The four STEM lenses
+
+| STEM lens | Heritage application | Core questions |
+| --- | --- | --- |
+| **Science** | Observation, classification, hypothesis, testing, environmental study, conservation science | What can be observed? What evidence would support or challenge the claim? |
+| **Technology** | Audio, video, scanning, databases, metadata, GIS, websites, AI assistance, digital preservation | Which tool captures and preserves the record without distorting it? |
+| **Engineering** | Archive design, recording systems, storage, restoration, exhibits, sensors, accessibility, resilient backups | How can we build a reliable, safe, repairable system? |
+| **Mathematics** | Measurement, timelines, statistics, geometry, scale, uncertainty, networks, mapping, checksums | What can be counted or measured, and what uncertainty must remain visible? |
+
+### Heritage-to-STEM crosswalk
+
+| Heritage category | Science | Technology | Engineering | Mathematics | Example output |
+| --- | --- | --- | --- | --- | --- |
+| Oral history and language | Memory research, acoustics, linguistics | Digital recorders, transcription, search | Interview workflow and accessible archive | Word frequency, timing, sample comparison | Consent-based oral-history package |
+| Performing arts | Sound, movement, perception | Audio/video capture, notation software | Stage, lighting, recording, preservation | Rhythm, tempo, geometry, duration | Performance documentation |
+| Rituals and community events | Social observation, material analysis | Event documentation and digital exhibits | Safe exhibit and access design | Calendars, participation counts, network maps | Community-event archive |
+| Nature and the universe | Ecology, geology, astronomy, weather | Sensors, satellite data, GIS, sky maps | Field stations and observation tools | Coordinates, cycles, scale, error ranges | Local environment or skywatch study |
+| Craftsmanship | Materials science, chemistry, conservation | Imaging, digital modeling, tool documentation | Reconstruction, repair, packaging | Measurement, proportion, pattern, cost | Craft process and preservation plan |
+| Buildings, sites, and landscapes | Archaeology, ecology, structural study | Photogrammetry, mapping, databases | Stabilization, models, accessible pathways | Area, volume, geometry, change over time | Site record or 3D model |
+| Documentary heritage | Paper, ink, film, media degradation | Scanning, OCR, storage, metadata | Redundant archive and migration plan | Resolution, file size, sampling, checksums | Verified digital preservation package |
+| AI and digital culture | Human-computer interaction, evaluation | Models, repositories, version control | Permissioned workflows and audit trails | Accuracy, error rates, comparisons, graph structure | Provenance-aware digital exhibit |
+| UFO/UAP and anomalous accounts | Observation design, psychology, astronomy, atmospheric science | Time-stamped media, sensor records, databases | Evidence intake and chain-of-custody workflow | Bearings, distance, probability, uncertainty | Labeled testimony-and-evidence case file |
+
+### Program learning cycle
+
+**Ask → Obtain consent → Observe → Preserve the original → Measure → Research → Model or build → Test → Interpret → Community review → Publish or restrict → Maintain**
+
+Each stage has a different responsibility. A measurement does not replace a person’s account, and a compelling account does not replace measurement.
+
+### Program strands
+
+1. **Archive Science** — materials, deterioration, conservation conditions, file integrity, and media migration.
+2. **Oral History Data** — ethical interviewing, transcription, coding, uncertainty, qualitative and quantitative comparison.
+3. **Heritage Technology** — recording, scanning, metadata, databases, GIS, accessible websites, and responsible AI assistance.
+4. **Preservation Engineering** — storage systems, backup design, exhibits, restoration tools, sensors, and disaster planning.
+5. **Mathematics of Memory** — chronology, scale, geometry, networks, statistics, sampling, error, and confidence.
+6. **Earth and Sky Heritage** — ecology, geology, weather, navigation, astronomy, and community knowledge of nature and the universe.
+7. **Digital Culture and AI History** — repositories, model and platform history, human-AI collaboration records, provenance, permissions, and continuity.
+8. **Community Innovation** — use STEM to solve an identified preservation or access problem for a real community.
+
+### Sample projects
+
+- Record an elder’s life history, produce a consent record and transcript, then map places and dates with uncertainty clearly marked.
+- Compare an oral account with newspapers, photographs, service records, weather data, or public archives without treating disagreement as automatic disproof.
+- Digitize photographs and calculate resolution, storage needs, checksums, and backup capacity.
+- Document a local craft through materials analysis, measurement, process diagrams, and a narrated demonstration.
+- Build a low-cost temperature and humidity monitor for a small archive.
+- Map environmental or sky observations using time, location, direction, instrument limits, and alternative explanations.
+- Create a public exhibit that separates source, testimony, measurement, interpretation, and project canon.
+- Audit an AI-assisted historical summary against its original sources and record every correction.
+
+### Learning outcomes
+
+Participants should be able to:
+
+- formulate a researchable question;
+- obtain and document consent;
+- distinguish qualitative and quantitative data;
+- preserve an original source and its provenance;
+- select appropriate tools and document their limits;
+- calculate and communicate measurement uncertainty;
+- build and test a practical preservation solution;
+- evaluate competing explanations;
+- explain what is verified, unverified, disputed, or interpretive;
+- present results accessibly to the originating community.
+
+### Data and mathematics rules
+
+- Record units, instruments, dates, time zones, and methods.
+- Retain raw data separately from cleaned or interpreted data.
+- Never invent missing values.
+- Report uncertainty, sample limitations, and possible bias.
+- Do not use statistics to imply certainty beyond the evidence.
+- Protect personal and culturally restricted data.
+- Publish enough method for another person to understand or reproduce the calculation when ethical and permitted.
+
+### Program record
+
+Every STEM project should produce:
+
+1. a question and community purpose;
+2. consent and access conditions;
+3. source and provenance register;
+4. observation or data plan;
+5. method, tools, and units;
+6. raw and processed materials;
+7. calculations, code, diagrams, or build notes;
+8. results with uncertainty;
+9. human and community review;
+10. a preservation and maintenance plan.
+
+**STEM serves heritage; heritage gives STEM human purpose.**
+
 ## Historical-account record
 
 Every historical account should carry the following fields:
