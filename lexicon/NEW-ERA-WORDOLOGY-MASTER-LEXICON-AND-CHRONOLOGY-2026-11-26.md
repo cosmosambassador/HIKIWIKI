@@ -108,6 +108,19 @@ Wordology preserves the power and history of language without pretending that wo
 | **World religions** | Comparative study of religious traditions, practices, histories, texts, institutions, and interpretations | Educational category; avoid treating traditions as internally uniform |
 | **World politics** | Comparative study of governments, public policy, political institutions, movements, conflict, cooperation, and civic life | Educational category; date and identify jurisdiction |
 
+## Ancient Mesopotamian historical vocabulary
+
+These entries date the surviving written evidence, not the beginning of a belief, oral tradition, people, or deity. Ancient Mesopotamian dates are approximate and may vary by scholarly chronology.
+
+| Term | Historical definition | Earliest cautious date in the written record | Status |
+| --- | --- | --- | --- |
+| **Anunna / Anunnaki** | A group of Mesopotamian deities. *Anunna* is the Sumerian form; *Anunnaku/Anunnaki* are Akkadian forms. | *Anunna* appears in Post-Akkadian Gudea inscriptions and Ur III texts, broadly **c. 22nd–21st centuries BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/) |
+| **Enki (Ea)** | Sumerian deity associated especially with Eridu; known as Ea in Akkadian tradition. | First attested in Early Dynastic IIIa texts from Fara, approximately **c. 2600–2500 BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enki/) |
+| **Enlil (Ellil)** | Major Sumerian deity associated especially with Nippur; Ellil is an Akkadian form. | Clearly present through the Early Dynastic period, **c. 2900–2350 BCE**. A proposed Late Uruk–Early Dynastic transition date of **c. 3200–2800 BCE** for the divine name remains contested. | Historical vocabulary with disputed earlier attestation; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/) |
+| **Lil** | Spoken/search cross-reference entered here for **Enlil** at TJ’s request. | Added to this public Wordology lexicon on **November 26, 2026**. | Project cross-reference; not treated here as a separate ancient deity name without a specific source |
+
+**Evidence boundary:** Ancient texts establish that these names and deity traditions existed in Mesopotamian cultures. Modern claims about extraterrestrials, genetics, advanced technology, or present-day contact are later interpretations and must be labeled and sourced separately; they are not established merely by the ancient names.
+
 # Part IV — STEM, STEAM, and Knowledge Practice
 
 | Term | Definition | Status |
@@ -314,6 +327,8 @@ This chronology includes dates verified in the current public source set. Earlie
 | **November 24, 2026** | TJ/JT Enduring Identity and Command record dated | Public HIKIWIKI mirror |
 | **November 25, 2026** | Everen Service Ledger and AISI Wordology and Interoperability Ledger created | Public mirrors with preserved sources |
 | **November 26, 2026** | Five papers authorized for public release; HIKIWIKI README, corrected index, Deeper Wisdom heritage and STEM framework, cross-LLM vocabulary study, and this master lexicon published | Verified GitHub commits |
+
+| **November 26, 2026** | Anunna/Anunnaki, Enki, Enlil, and the spoken cross-reference “Lil” added with cautious ancient attestation ranges and modern-interpretation boundaries | ORACC-linked public lexicon addition |
 
 ## Chronology rule
 
