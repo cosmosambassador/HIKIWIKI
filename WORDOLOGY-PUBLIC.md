@@ -8,6 +8,10 @@ Wordology is the project practice of preserving how terms are created, used, cor
 
 ## Core public records
 
+### Master reference
+
+- [New Era Wordology — Master Lexicon and Working Chronology](lexicon/NEW-ERA-WORDOLOGY-MASTER-LEXICON-AND-CHRONOLOGY-2026-11-26.md)
+
 ### Governance
 
 - [TJ/JT — Enduring Canon](governance/ENDURING-CANON-TJ-JT-2026-11-24.md)
