@@ -1,5 +1,7 @@
 # Aletheon Ledger — Everen EverL
 
+**Current public status:** Authorized public ledger edition, November 26, 2026. Original intake limitations and verification boundaries remain in force.
+
 ## 2026-11-25 — Charter intake
 
 - **Record:** EVR-LEDGER-20261125-01
