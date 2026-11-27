@@ -114,12 +114,29 @@ These entries date the surviving written evidence, not the beginning of a belief
 
 | Term | Historical definition | Earliest cautious date in the written record | Status |
 | --- | --- | --- | --- |
-| **Anunna / Anunnaki** | A group of Mesopotamian deities. *Anunna* is the Sumerian form; *Anunnaku/Anunnaki* are Akkadian forms. | *Anunna* appears in Post-Akkadian Gudea inscriptions and Ur III texts, broadly **c. 22nd–21st centuries BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/) |
-| **Enki (Ea)** | Sumerian deity associated especially with Eridu; known as Ea in Akkadian tradition. | First attested in Early Dynastic IIIa texts from Fara, approximately **c. 2600–2500 BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enki/) |
-| **Enlil (Ellil)** | Major Sumerian deity associated especially with Nippur; Ellil is an Akkadian form. | Clearly present through the Early Dynastic period, **c. 2900–2350 BCE**. A proposed Late Uruk–Early Dynastic transition date of **c. 3200–2800 BCE** for the divine name remains contested. | Historical vocabulary with disputed earlier attestation; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/) |
-| **Lil** | Spoken/search cross-reference entered here for **Enlil** at TJ’s request. | Added to this public Wordology lexicon on **November 26, 2026**. | Project cross-reference; not treated here as a separate ancient deity name without a specific source |
+| **Anunna / Anunnaki (attested c. 2200–2000 BCE)** | A group of Mesopotamian deities. *Anunna* is the Sumerian form; *Anunnaku/Anunnaki* are Akkadian forms. | *Anunna* appears in Post-Akkadian Gudea inscriptions and Ur III texts, broadly **c. 22nd–21st centuries BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/anunna/) |
+| **Enki / Ea (attested c. 2600–2500 BCE)** | Sumerian deity associated especially with Eridu; known as Ea in Akkadian tradition. | First attested in Early Dynastic IIIa texts from Fara, approximately **c. 2600–2500 BCE**. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enki/) |
+| **Enlil / Ellil (securely attested c. 2900–2350 BCE; earlier identification proposed c. 3200–2800 BCE)** | Major Sumerian deity associated especially with Nippur; Ellil is an Akkadian form. | Clearly present through the Early Dynastic period, **c. 2900–2350 BCE**. A proposed Late Uruk–Early Dynastic transition date of **c. 3200–2800 BCE** for the divine name remains contested. | Historical vocabulary with disputed earlier attestation; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/enlil/) |
+| **Lil (project cross-reference added November 26, 2026)** | Spoken/search cross-reference entered here for **Enlil** at TJ’s request. | Added to this public Wordology lexicon on **November 26, 2026**. | Project cross-reference; not treated here as a separate ancient deity name without a specific source |
+| **Ninhursag / Ninhursaŋa (attested c. 2500–2350 BCE)** | Sumerian goddess associated with mountains and the broader Mesopotamian mother-goddess tradition; spellings and identifications vary across periods. | The name Ninhursaŋa is attested in Early Dynastic IIIb royal texts, approximately **c. 2500–2350 BCE**. The wider mother-goddess tradition is attested throughout the Early Dynastic period. | Historical vocabulary; [ORACC source](https://oracc.museum.upenn.edu/amgg/listofdeities/mothergoddess/index.html) and [ePSD attestations](https://oracc.museum.upenn.edu/epsd2/royal/cbd/qpn-x-divine/N.html) |
+| **Thoth / Djehuty (attested by c. 2350 BCE)** | Ancient Egyptian deity associated with writing, reckoning, knowledge, and judgment. Greek and Roman traditions later associated Thoth with Hermes. | Attested in the Pyramid Texts by approximately **c. 2350 BCE**; this dates surviving textual evidence, not the beginning of worship. | Historical vocabulary; [scholarly Pyramid Texts source](https://dspace.cuni.cz/bitstream/handle/20.500.11956/67355/DPTX_2013_1_11210_0_406810_0_142292.pdf?sequence=1) |
+| **Hermes Trismegistus (Hermetic writings chiefly c. 100–300 CE)** | Legendary Greco-Egyptian wisdom figure formed through the association of Greek Hermes with Egyptian Thoth; the name authorizes a body of Hermetic writings rather than providing a securely dated human biography. | Surviving philosophical Hermetica are generally placed in Roman Egypt during approximately **c. 100–300 CE**. | Historical and religious-philosophical vocabulary; [Oxford reference](https://academic.oup.com/edited-volume/61673/chapter-abstract/548947138) and [Yale Peabody overview](https://echoesofegypt.peabody.yale.edu/egyptosophy/fragments-book-thoth) |
 
-**Evidence boundary:** Ancient texts establish that these names and deity traditions existed in Mesopotamian cultures. Modern claims about extraterrestrials, genetics, advanced technology, or present-day contact are later interpretations and must be labeled and sourced separately; they are not established merely by the ancient names.
+**Evidence boundary:** Ancient texts establish that these names and deity traditions existed in Mesopotamian or Egyptian cultures. Modern claims about extraterrestrials, genetics, advanced technology, present-day contact, or continuing council activity are later interpretations or testimony and must be labeled and sourced separately; they are not established merely by the ancient names.
+
+## Project testimony and council hierarchy (entered November 26, 2026)
+
+The following sequence preserves TJ Morris’s stated project testimony and canon. It is not presented as an independently verified historical, scientific, governmental, or extraterrestrial hierarchy.
+
+| Term | Working placement | Date and evidence label |
+| --- | --- | --- |
+| **Higher Council (project entry: November 26, 2026)** | Council level associated in TJ’s account with Hermes Trismegistus and continuing guidance | User testimony / project canon |
+| **Supreme High Council (project entry: November 26, 2026)** | Supreme council designation stated above or alongside the Higher Council in the project hierarchy | User testimony / project canon |
+| **Watchers (project entry: November 26, 2026)** | Observing or guarding order following the council designations | User testimony / project canon; distinct from the many historical religious and literary uses of “Watchers” |
+| **Eighth Light Being (project entry: November 26, 2026)** | Light-being designation placed at the eighth station in TJ’s account | User testimony / project canon; not a scientific classification |
+| **Hermes continuity statement (recorded November 26, 2026)** | “He’s still there” and works with the Higher Council | Preserved as TJ’s testimony, not independently verified external fact |
+
+**Date rule:** parenthetical ancient dates describe the earliest cautious surviving textual evidence. Parenthetical 2026 dates describe when a term entered this public project record. Neither is a claimed birth date or exact “invention year.”
 
 # Part IV — STEM, STEAM, and Knowledge Practice
 
@@ -329,6 +346,8 @@ This chronology includes dates verified in the current public source set. Earlie
 | **November 26, 2026** | Five papers authorized for public release; HIKIWIKI README, corrected index, Deeper Wisdom heritage and STEM framework, cross-LLM vocabulary study, and this master lexicon published | Verified GitHub commits |
 
 | **November 26, 2026** | Anunna/Anunnaki, Enki, Enlil, and the spoken cross-reference “Lil” added with cautious ancient attestation ranges and modern-interpretation boundaries | ORACC-linked public lexicon addition |
+
+| **November 26, 2026** | Ninhursag, Thoth, Hermes Trismegistus, Higher Council, Supreme High Council, Watchers, and Eighth Light Being added with approximate dates in parentheses and explicit evidence labels | ORACC, scholarly reference links, and TJ project testimony |
 
 ## Chronology rule
 
