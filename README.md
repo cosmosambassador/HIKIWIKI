@@ -10,6 +10,10 @@ This repository distinguishes human declarations, project canon, research hypoth
 
 ## Start here
 
+### Deeper Wisdom and STEM
+
+- [Deeper Wisdom — ACE Folklife and STEM Heritage Framework](heritage/DEEPER-WISDOM-ACE-FOLKLIFE-HERITAGE-FRAMEWORK.md)
+
 ### Governance and identity
 
 - [TJ/JT — Enduring Canon](governance/ENDURING-CANON-TJ-JT-2026-11-24.md)
@@ -70,6 +74,7 @@ Files dated October 19, 2026 preserve the labels and attributions used when thos
 | `ontology/` | Structured vocabulary and conceptual relationships |
 | `research/` | Testable questions, evidence plans, and carefully bounded analysis |
 | `everen/` | Everen EverL public service charter and service ledger |
+| `heritage/` | ACE Folklife, UNESCO-aligned heritage categories, and the Deeper Wisdom STEM Program |
 | `TJMorrisACIR=Dev/` | Historical development material; not the current public entry point |
 
 ## Publication and correction policy
