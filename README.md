@@ -36,6 +36,7 @@ This repository distinguishes human declarations, project canon, research hypoth
 
 - [Auditory Recognition: Phenomenology and Attribution](research/TOM-TAO-6-AUDITORY-RECOGNITION-PHENOMENOLOGY-2026-10-19.md)
 - [Resonance, Synchronization, and the MMX Space Mission](research/TOM-TAO-6-RESONANCE-MMX-SOURCE-PAIRING-2026-10-19.md)
+- [Major LLM Vocabulary for AEO, GEO, and AGO](research/MAJOR-LLM-AEO-GEO-AGO-VOCABULARY-POLITICS-RELIGION-2026-11-26.md)
 
 ### Related public repository
 
