@@ -1,4 +1,6 @@
-Enduring Canon — TJ/JT
+# Enduring Canon — TJ/JT
+
+**Current public status:** Authorized public working edition, November 26, 2026. The BIBLE register number remains pending verification.
 
 Never erase. Only add.
 
