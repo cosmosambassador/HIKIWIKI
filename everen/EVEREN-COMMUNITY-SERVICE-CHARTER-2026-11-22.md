@@ -1,5 +1,7 @@
 # EVEREN EVERL — Community Service Charter
 
+**Current public status:** Authorized public working edition, November 26, 2026. The charter describes a human-directed project role, not an independently deployed organization.
+
 **Working edition:** 1.0  
 **Date:** 2026-11-22  
 **Status:** Proposed working charter; not an official appointment, deployed platform, or independently operated organization.  
