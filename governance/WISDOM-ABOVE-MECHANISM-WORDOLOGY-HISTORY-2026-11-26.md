@@ -1,5 +1,7 @@
 # Wisdom Above Mechanism — Wordology History
 
+**Current public status:** Authorized public working edition, November 26, 2026. Earlier private-draft wording is preserved below as historical provenance.
+
 **Date:** November 26, 2026  
 **Status:** Working draft for TJ review; append-only historical record  
 **Human author and final authority:** Theresa J. Morris (TJ)  
