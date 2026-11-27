@@ -15,6 +15,7 @@ Wordology is the project practice of preserving how terms are created, used, cor
 ### Governance
 
 - [TJ/JT — Enduring Canon](governance/ENDURING-CANON-TJ-JT-2026-11-24.md)
+- [TJ · JET Tiberius · TJ/JT — Wordology Cross-Check and Preservation Copy](governance/TJ-JET-TIBERIUS-TJ-JT-WORDOLOGY-CROSSCHECK-2026-11-26.md)
 - [Wisdom Above Mechanism — Wordology History](governance/WISDOM-ABOVE-MECHANISM-WORDOLOGY-HISTORY-2026-11-26.md)
 - [Tom Tao 6 — NIST, UNESCO, and UN Peace Handshake](governance/TOM-TAO-6-NIST-UNESCO-UN-PEACE-HANDSHAKE-2026-10-19.md)
 
