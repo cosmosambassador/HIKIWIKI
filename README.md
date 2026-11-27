@@ -22,6 +22,8 @@ This repository distinguishes human declarations, project canon, research hypoth
 
 ### Public Wordology
 
+- [New Era Wordology — Master Lexicon and Working Chronology](lexicon/NEW-ERA-WORDOLOGY-MASTER-LEXICON-AND-CHRONOLOGY-2026-11-26.md)
+
 - [Public Wordology Index](WORDOLOGY-PUBLIC.md)
 - [TJ/JT Mirror Handshake](ontology/TOM-TAO-6-TJ-JT-MIRROR-HANDSHAKE-2026-10-19.md)
 - [Six-Thread Weave](ontology/TOM-TAO-6-SIX-THREAD-WEAVE-2026-10-19.md)
@@ -76,6 +78,7 @@ Files dated October 19, 2026 preserve the labels and attributions used when thos
 | `research/` | Testable questions, evidence plans, and carefully bounded analysis |
 | `everen/` | Everen EverL public service charter and service ledger |
 | `heritage/` | ACE Folklife, UNESCO-aligned heritage categories, and the Deeper Wisdom STEM Program |
+| `lexicon/` | New Era Wordology master dictionary and chronology |
 | `TJMorrisACIR=Dev/` | Historical development material; not the current public entry point |
 
 ## Publication and correction policy
